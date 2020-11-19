@@ -1,0 +1,6 @@
+pidgey
+ivysaur
+kakuna
+wartortle
+charizard
+bulbasaur
